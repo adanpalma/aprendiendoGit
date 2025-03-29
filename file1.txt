@@ -1,0 +1,6 @@
+nuevo archivo creado en f4
+el mismo no existe en main
+pero como main no tiene mas commits
+hare un git merge --ff-only y esto hara que se integre
+con main pero cuando vea el log no parecera que viene de otra rama lo que 
+hace es que head aputna ahora a f4 y se ve todo lineal
